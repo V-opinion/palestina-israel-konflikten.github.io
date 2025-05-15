@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Allow: /*/*.css
+Allow: /*/*.js
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /xmlrpc.php
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: */disclaimer/*
+Disallow: *?attachment_id=
+Disallow: /privacy-policy
+
+
+# This robots.txt file was created by Better Robots.txt (Index & Rank Booster by Pagup) Plugin. https://www.better-robots.com/
+Sitemap: http://political-practices-in-exile.test/sitemap.xml
+Sitemap: http://political-practices-in-exile.test/sitemap.html

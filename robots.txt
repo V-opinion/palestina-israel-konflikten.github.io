@@ -13,7 +13,5 @@ Disallow: */disclaimer/*
 Disallow: *?attachment_id=
 Disallow: /privacy-policy
 
+Sitemap: https://palestina-israel-konflikten.multireligionvalsystem.eu.org/sitemap.xml
 
-# This robots.txt file was created by Better Robots.txt (Index & Rank Booster by Pagup) Plugin. https://www.better-robots.com/
-Sitemap: http://political-practices-in-exile.test/sitemap.xml
-Sitemap: http://political-practices-in-exile.test/sitemap.html

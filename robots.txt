@@ -1,7 +1,4 @@
 User-agent: *
-Allow: /wp-admin/admin-ajax.php
-Allow: /*/*.css
-Allow: /*/*.js
 Disallow: /wp-admin/
 Disallow: /wp-includes/
 Disallow: /readme.html
